@@ -7,8 +7,8 @@
 
 ### themes
 
-- [tailwindcss](https://github.com/JiangWeixian/tailwindcss) - stitches with 🎐 [tailwindcss](https://tailwindcss.com/)
-- [(WIP)macos@monterey](https://github.com/JiangWeixian/macos) - stitches with 🍎 [macos](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/color/) style guide
+- [tailwindcss](https://github.com/JiangWeixian/stitches.config/tree/master/tailwindcss) - stitches with 🎐 [tailwindcss](https://tailwindcss.com/)
+- [(WIP)macos@monterey](https://github.com/JiangWeixian/stitches.config/tree/master/macos) - stitches with 🍎 [macos](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/color/) style guide
   - system dark
   - [ ] system light 
 
@@ -25,10 +25,11 @@ see more details in config file
 
 Copy or move dir e.g. `tailwindcss` directly to project.
 
-## development
+## refs
 
-- **Setup** - `pnpm i`
-- **Build** - `pnpm build`
+- [vscode-mac-color-picker](https://github.com/EugeneDae/vscode-mac-color-picker)
+- [macos-human-interface-guide](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/color/)
+- [tailwindcss](https://tailwindcss.com)
 
 # 
 <div align='right'>

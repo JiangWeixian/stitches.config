@@ -27,8 +27,6 @@
   "scripts": {
     "build": "rimraf lib && ttsc",
     "dev": "rimraf lib && ttsc -w",
-    "test": "pnpm run build && jest",
-    "pretest": "pnpm run build",
     "ci:publish": "pnpm run build && pnpx changeset publish",
     "ci:version": "pnpx changeset version",
     "ci:snapshot": "pnpx changeset version --snapshot beta",
