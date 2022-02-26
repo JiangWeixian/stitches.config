@@ -8,6 +8,7 @@
 ### themes
 
 - [tailwindcss](https://github.com/JiangWeixian/stitches.config/tree/master/tailwindcss) - stitches with 🎐 [tailwindcss](https://tailwindcss.com/)
+  - [preflight](https://unpkg.com/tailwindcss@3.0.23/src/css/preflight.css)
 - [(WIP)macos@monterey](https://github.com/JiangWeixian/stitches.config/tree/master/macos) - stitches with 🍎 [macos](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/color/) style guide
   - system dark
   - [ ] system light 
