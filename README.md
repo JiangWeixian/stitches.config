@@ -13,6 +13,27 @@
   - system dark
   - [ ] system light 
 
+#### convention
+
+according to [stitches#naming-convention](https://stitches.dev/docs/tokens#naming-convention). tailwindcss class like `0.5` or `1/2` is not valid. 
+
+```tsx
+// recommended
+tokenName
+token_name
+token-name
+
+// avoid
+token.name
+token$name
+token*name
+```
+
+There are some different with original `tailwindcss`
+
+- `0.5` will be `0_5`
+- `1/2` will be `1-2`
+
 ### utils
 
 - Alias for margin e.g. `my/mx/mt/mb`
